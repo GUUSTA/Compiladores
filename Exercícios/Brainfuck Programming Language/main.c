@@ -3,6 +3,6 @@
 #include "brainfuck.h"
 
 int main(void) {
-    te_interp("Ola");
+    te_interp("Ola", "Ola");
     return 0;
 }
