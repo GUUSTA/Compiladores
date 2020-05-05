@@ -1,6 +1,6 @@
 #ifndef __BRAINFUCK_H__
 #define __BRAINFUCK_H__
 
-void te_interp(const char *program, const char *word) ;
+void interp(char *program, char *word) ;
 
 #endif
